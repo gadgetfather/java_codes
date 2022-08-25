@@ -3,6 +3,6 @@ public class ArrayFirst {
         int[] arr = new int[5];
         int ros;
         System.out.println(arr[0]);
-        System.out.println(ros);
+//        System.out.println(ros);
     }
 }
