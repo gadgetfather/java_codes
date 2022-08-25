@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Swap">
     <configuration name="MultiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiDimension" />
       <module name="arrays" />
@@ -43,8 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swap" />
         <item itemvalue="Application.MultiDimension" />
       </list>
     </recent_temporary>
