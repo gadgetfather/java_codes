@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1908e0f9-d29c-42e6-a1b2-073a4850e98f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bubble_sort/src/CyclicSort.java" afterDir="false" />
+    <list default="true" id="1908e0f9-d29c-42e6-a1b2-073a4850e98f" name="Changes" comment="cyclic sort code">
+      <change afterPath="$PROJECT_DIR$/bubble_sort/src/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_codes/src/CyclicSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_codes/src/CyclicSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ba4a8133-b21c-4231-92e3-d6312eb47824" />
+        <option name="url" value="https://github.com/gadgetfather/java_codes.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,6 +56,21 @@
       <option name="presentableId" value="Default" />
       <updated>1661835962603</updated>
     </task>
+    <task id="LOCAL-00001" summary="cyclic sort code">
+      <created>1663499854508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663499854508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cyclic sort code">
+      <created>1663499913645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663499913645</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,15 +84,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/bubble_sort/src/CyclicSort.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cyclic sort code" />
+    <option name="LAST_COMMIT_MESSAGE" value="cyclic sort code" />
   </component>
 </project>
